@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Samanvia Kadamb 👋
 
-<!--
-**NoOne6268/NoOne6268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Currently exploring **React Native**, **Next.js**, and **Cloud Architectures**.  
+- Experienced in building **end-to-end fullstack applications** with scalable databases and real-time features.  
+- Interested in **AI-powered solutions**, **data systems**, and **developer productivity tools**.  
+- Open to internships, research collaborations, and hackathons.
 
-Here are some ideas to get you started:
+## 🔨 Tech Stack
+**Languages:** C, C++, Dart, Java, Kotlin, Python, JavaScript, TypeScript, R, Lua  
+**Frontend:** React, React Native, Flutter, Next.js, TailwindCSS, Bootstrap, Expo, Vue.js  
+**Backend & DB:** Node.js, Express, PostgreSQL, MongoDB, Firebase, Supabase, NeonDB, AWS, Clerk, Zustand, Realm
+**Other Tools:** Git, Docker, Figma, REST APIs 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- ✉️ Email: [samanviak@gmail.com](mailto:samanviak@gmail.com)
+- 🌐 Website: [samanviakadamb.com](https://www.samanviakadamb.com/)  
+- 🔗 LinkedIn: [Samanvia Kadamb](https://www.linkedin.com/in/samanviakadamb/)  
+- 🐙 GitHub: [NoOne6268](https://github.com/NoOne6268)
+- 📑 CV: [CV](https://www.samanviakadamb.com/CV.pdf)
